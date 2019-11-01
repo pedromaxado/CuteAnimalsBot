@@ -17,4 +17,6 @@ function getBull(index) {
         "https://media.gettyimages.com/photos/camargue-bulls-running-across-water-aigues-mortescamargue-gard-france-picture-id619138180?s=2048x2048",
         "https://media.gettyimages.com/photos/raging-bull-chasing-bull-rider-cowboy-in-rodeo-arena-picture-id846221432?s=2048x2048"
     ]
+
+    return stockImageArr;
 }
